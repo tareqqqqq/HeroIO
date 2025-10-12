@@ -1,0 +1,362 @@
+[
+  {
+    "image":"https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify revolutionizes the way we experience music by transforming listening into a deeply personal and seamless journey. Built for the modern lifestyle, it offers millions of songs, podcasts, and playlists right at your fingertips, adapting perfectly to your mood, taste, and daily rhythm. Whether you’re working out, studying, or relaxing, Spotify curates the perfect soundtrack to accompany every moment of your life. At its heart, Spotify blends technology with artistry. Its smart recommendation engine analyzes your listening habits to craft playlists that feel handpicked just for you. From “Discover Weekly” to “Daily Mix,” every list evolves with your preferences, helping you explore new artists while staying connected to your favorites. Users can create their own playlists, share them with friends, and follow others to uncover new sounds from across the world. Beyond music, Spotify builds a space where creativity meets connection. Its vast podcast library spans education, entertainment, storytelling, and self-improvement—making it a platform not just for listening, but for learning and inspiration. The sleek, distraction-free interface ensures that nothing comes between you and your sound, while offline playback lets you enjoy your tunes anywhere, even without an internet connection. For artists, Spotify provides a global stage. With real-time analytics and fan insights, musicians can understand their audience better, refine their sound, and connect with listeners directly. The platform bridges the gap between creators and fans, making it more than just a music app—it’s a community built around shared passion. Spotify also integrates smoothly across devices—from your phone and laptop to your car and smart speakers—creating a unified audio experience wherever you go. Personalized playlists, collaborative sessions, and group listening features make every moment social, even when you’re miles apart from friends. Ultimately, Spotify isn’t just about streaming songs—it’s about building emotional connections through sound. It celebrates individuality, fuels creativity, and keeps the world moving to its own rhythm. Whether you’re discovering new genres or revisiting old classics, Spotify ensures that your soundtrack never stops, making every beat a part of your story.",
+    "size": "85MB",
+    "reviews": "12.5M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  },
+  {
+    "image":"https://play-lh.googleusercontent.com/ZIrCcsga5EiJpCqQtOzuVFSHY4yOiESvZrLFy-gC0OGHZ9fKM018odPj2Q0TPmrOpRvD=w240-h480-rw",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Instagram is more than just a photo-sharing app—it’s your personal window to the world’s creativity, culture, and connection. Designed to bring people closer to what they love, it transforms everyday moments into visual stories that inspire millions across the globe. Whether you’re capturing your morning coffee, sharing your latest artwork, or exploring travel adventures, Instagram provides a platform where self-expression and community thrive together.Built with a clean, intuitive interface, Instagram helps you focus on what matters: authentic connection. Users can post photos, short videos, and reels enhanced with filters and editing tools that make every moment look its best. The built-in stories feature lets you share temporary updates that feel more spontaneous and real, while direct messages create private spaces for personal conversations. The algorithm learns your preferences and curates a personalized feed—so every scroll brings you closer to people and interests that inspire you.For creators and businesses, Instagram offers powerful tools to grow their audience. Insights show how followers engage with posts, while professional dashboards help manage collaborations and ad campaigns with precision. Whether you’re a brand, an influencer, or a hobbyist, Instagram turns your passion into a platform. With features like shopping, live streaming, and reels discovery, it has evolved into a complete ecosystem for creativity, commerce, and community.Beyond features, Instagram fosters emotional connection. It’s where trends begin, movements spread, and friendships grow stronger through shared experiences. From inspiring art and fashion to educational content and global news, it adapts to every lifestyle. With built-in safety and privacy controls, users can curate their experience—choosing who to follow, what to share, and how to engage.Ultimately, Instagram is not just an app—it’s a reflection of modern life. A digital gallery of expression, emotion, and evolution. Whether you’re capturing memories, following passions, or building your personal brand, Instagram empowers you to tell your story your way—beautifully, creatively, and authentically.",
+    "size": "90MB",
+    "reviews": "21M",
+    "ratingAvg": 4.4,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5500000 },
+      { "name": "5 star", "count": 12200000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Tll2LETWf7s67vK-OXqI3CbpwraoUK6tJH73z034zumyJa6CrWx1OTaYNQWj9jMKQUMU=w240-h480-rw",
+    "title": "Facebook lite",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "Create and watch short-form videos with trending music and effects.",
+    "size": "120MB",
+    "reviews": "18M",
+    "ratingAvg": 4.5,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 10400000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/JfQNUnohpuq5IP65WN9C109VjLjDEj2tZYlPtComLznQfGeeoesubOaHGBcpZdXKuHU=w240-h480-rw",
+    "title": "Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 4,
+    "description": "Facebook Lite brings the world’s largest social network to everyone, no matter where they are or what device they use. Designed to be fast, lightweight, and efficient, it delivers the full Facebook experience in a compact form that runs smoothly even on slower networks or older phones. Users can connect instantly with friends and family, share photos, videos, and updates, and stay engaged in conversations through comments, reactions, and messages. Despite its smaller size, Facebook Lite keeps all the essentials—from News Feed and Groups to Marketplace and Notifications—ensuring you never miss a moment that matters. Its optimized data usage means you can browse longer without worrying about internet speed or cost, making it ideal for regions with limited connectivity. The interface is clean, simple, and responsive, allowing quick access to what you love most: your community. You can follow pages, join events, and participate in group discussions seamlessly while staying connected to your favorite interests and causes. Built with performance and accessibility in mind, Facebook Lite updates quickly, consumes minimal storage, and still provides secure login and privacy settings to protect your personal information. Whether you’re sharing memories, discovering stories, or connecting across distances, Facebook Lite ensures that social interaction remains effortless and enjoyable for everyone, everywhere.",
+    "size": "60MB",
+    "reviews": "22M",
+    "ratingAvg": 4.7,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Qoz6Vb9ixi8ZrJu8JkA2USD4A4RfKOP0372DuFyR12IjZa37dBbFGRIpkotFGyk0bw=w416-h235-rw",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "This app is a comprehensive platform designed to streamline daily life by blending productivity, organization, and creativity into one seamless experience. It provides tools for task management, reminders, and analytics, allowing users to track progress and develop efficient habits. The interface is intuitive and minimal, reducing distractions while maintaining functionality. Users can personalize their environment with themes, notifications, and smart suggestions that evolve based on usage patterns. Beyond organization, the app offers collaborative features, enabling team projects, shared calendars, and group communications. Motivational elements such as streaks, achievements, and progress summaries reinforce consistency and encourage sustained engagement. The app is optimized for performance across devices and network conditions, ensuring a smooth experience anytime, anywhere. With calming visuals, subtle animations, and an adaptive workflow, it fosters focus and clarity. It is not just a utility but a companion for personal and professional growth, helping users prioritize effectively, complete goals, and maintain balance in their daily routines.",
+    "size": "95MB",
+    "reviews": "24M",
+    "ratingAvg": 4.3,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 1300000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5500000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Connect with people, follow trends, and share your thoughts with the world.",
+    "size": "75MB",
+    "reviews": "10M",
+    "ratingAvg": 4.2,
+    "downloads": "700M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4900000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "Zoom Meetings",
+    "companyName": "Zoom Video Communications",
+    "id": 7,
+    "description": "HD video meetings and webinars for work, school, and social connection.",
+    "size": "110MB",
+    "reviews": "6M",
+    "ratingAvg": 4.5,
+    "downloads": "550M",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3050000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (3).webp",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 8,
+    "description": "Stream your favorite TV shows, movies, and Netflix originals anytime.",
+    "size": "100MB",
+    "reviews": "8M",
+    "ratingAvg": 4.6,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 9,
+    "description": "Share moments instantly with friends using filters, lenses, and chat.",
+    "size": "85MB",
+    "reviews": "9M",
+    "ratingAvg": 4.2,
+    "downloads": "80M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3700000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (5).webp",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 10,
+    "description": "Fast and secure messaging app with cloud storage and privacy features.",
+    "size": "55MB",
+    "reviews": "5M",
+    "ratingAvg": 4.7,
+    "downloads": "60M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 2750000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (6).webp",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Navigate the world with accurate maps, real-time traffic, and location sharing.",
+    "size": "70MB",
+    "reviews": "12M",
+    "ratingAvg": 4.6,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 7600000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 12,
+    "description": "Easy-to-use video editor with filters, transitions, and effects.",
+    "size": "160MB",
+    "reviews": "4M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 2430000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd.",
+    "id": 13,
+    "description": "Create designs, logos, and presentations easily with templates and tools.",
+    "size": "95MB",
+    "reviews": "6M",
+    "ratingAvg": 4.8,
+    "downloads": "250M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "Uber Eats",
+    "companyName": "Uber Technologies Inc.",
+    "id": 14,
+    "description": "Order food and groceries from your favorite local restaurants and stores.",
+    "size": "110MB",
+    "reviews": "3.5M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1350000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 15,
+    "description": "Shop millions of products, track orders, and enjoy fast delivery worldwide.",
+    "size": "80MB",
+    "reviews": "10M",
+    "ratingAvg": 4.5,
+    "downloads": "120M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6200000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (5).webp",
+    "title": "FocusFlow: Pomodoro Timer",
+    "companyName": "MindSync Labs",
+    "id": 16,
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. It builds a complete environment for deep work with timers, focus tracking, analytics, and relaxing background sounds. The app encourages productivity through task-linked sessions, achievements, and customizable intervals, helping you stay disciplined, refreshed, and efficient throughout the day.",
+    "size": "72MB",
+    "reviews": "50K",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 36400 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (6).webp",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "id": 17,
+    "description": "Organize your notes, tasks, and projects in one collaborative workspace.",
+    "size": "68MB",
+    "reviews": "650K",
+    "ratingAvg": 4.7,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 435000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 18,
+    "description": "Learn new languages with fun, bite-sized lessons and daily practice goals.",
+    "size": "70MB",
+    "reviews": "1.5M",
+    "ratingAvg": 4.7,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (3).webp",
+    "title": "Asana",
+    "companyName": "Asana Inc.",
+    "id": 19,
+    "description": "Team project management tool for tracking work, goals, and progress in real time.",
+    "size": "78MB",
+    "reviews": "220K",
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 126000 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (5).webp",
+    "title": "Forest: Stay Focused",
+    "companyName": "Seekrtech",
+    "id": 20,
+    "description": "Grow virtual trees as you stay focused. Avoid distractions, stay productive, and build better work habits.",
+    "size": "63MB",
+    "reviews": "300K",
+    "ratingAvg": 4.8,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 195000 }
+    ]
+  }
+]
