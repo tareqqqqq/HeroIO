@@ -7,6 +7,9 @@ import { toast, ToastContainer } from 'react-toastify';
 import { Bar, BarChart, CartesianGrid, Legend, Rectangle, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import logoImg from '../../assets/logo.png'
 import errorImg from '../../assets/App-Error.png'
+import downloadImg from '../../assets/icon-downloads.png'
+import ratingImg from '../../assets/icon-ratings.png'
+import reviewsImg from '../../assets/icon-review.png'
 
 
 
@@ -41,7 +44,7 @@ const ProductDetails = () => {
   }
   const singleData = products.find(book => book.id === bookId);
   
-  const { companyName, downloads, ratingAvg, description, image, size, reviews, ratings } = singleData || {};
+  const { companyName, downloads, ratingAvg, description, image, size, reviews, ratings,title } = singleData || {};
   if (!singleData) {
     return (
       <div className="flex flex-col items-center justify-center  text-center bg-base-100 my-5">
@@ -65,7 +68,7 @@ const ProductDetails = () => {
     updateList(singleData)
   }
   return (
-    <div className="container m-auto">
+    <div className="container m-auto my-5">
 
 
 
@@ -75,38 +78,42 @@ const ProductDetails = () => {
 
 
       <div>
-        <div className="card card-side bg-base-100 shadow-sm">
+        <div className="card card-side bg-base-100 shadow-xl">
           <figure>
             <img
               src={image}
-              alt="Movie" />
+              alt="Movie"
+              className='p-2 object-cover' />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">{companyName}</h2>
-            <p>Developed by productive.io</p>
+            <h2 className="card-title font-bold text-2xl">{title}</h2>
+            <p className='text-xl'><span>Developed by</span> {companyName}</p>
             <div className='grid grid-cols-3 gap-5 mt-5' >
               <div>
-                <h1> <ArrowDownToLine />
-                </h1>
-                <h1>Downloads</h1>
-                <h1>{downloads}</h1>
+                {/* <h1> <ArrowDownToLine />
+                </h1> */}
+                <img src={downloadImg} alt="" />
+                <h1 className='font-bold text-3xl'>Downloads</h1>
+                <h1 className='font-bold text-xl'>{downloads}</h1>
 
               </div>
               <div>
-                <h1> <Star />
-                </h1>
-                <h1>Rating</h1>
+                 <img src={ratingImg} alt="" />
+                {/* <h1> <Star />
+                </h1> */}
+                <h1 className='font-bold text-3xl'>Rating</h1>
 
 
-                <h1>{ratingAvg}</h1>
+                <h1 className='font-bold text-xl'>{ratingAvg}</h1>
 
 
               </div>
               <div>
-                <h1> <ThumbsUp />
-                </h1>
-                <h1>Reviews</h1>
-                <h1>{reviews}</h1>
+                 <img src={reviewsImg} alt="" />
+                {/* <h1> <ThumbsUp />
+                </h1> */}
+                <h1 className='font-bold text-3xl'>Reviews</h1>
+                <h1 className='font-bold text-xl'>{reviews}</h1>
 
               </div>
             </div>
@@ -121,7 +128,7 @@ const ProductDetails = () => {
           </div>
         </div>
         <div className="my-10">
-        <h2 className="text-2xl font-bold mb-4 text-center">App Analytics Chart</h2>
+        <h2 className="text-3xl font-bold mb-4 ">App Analytics Chart</h2>
 
         {/* Parent div e height & width set kora holo */}
         <div className="w-full h-[500px]">
