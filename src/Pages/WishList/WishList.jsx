@@ -47,7 +47,7 @@ const WishList = () => {
 
   
     return (
-        <div>
+        <div className='container m-auto'>
             <div className='flex justify-between py-5 items-center'>
         <h1 className='text-3xl font-semibold'>
           Installation{' '}
