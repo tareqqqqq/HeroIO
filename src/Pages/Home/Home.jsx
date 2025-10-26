@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Hooks from '../../hooks/Hooks'
 import ProductCard from '../../components/ProductCard/ProductCard';
 import Banner from '../../components/Banner/Banner';
