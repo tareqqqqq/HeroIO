@@ -50,7 +50,7 @@ const WishList = () => {
         <div>
             <div className='flex justify-between py-5 items-center'>
         <h1 className='text-3xl font-semibold'>
-          Wishlist{' '}
+          Installation{' '}
           <span className='text-sm text-gray-500'>
             ({sortedItem.length}) Products Found.
           </span>
@@ -71,7 +71,7 @@ const WishList = () => {
 
        <div className='space-y-3'>
         {sortedItem.map(p => (
-          <div key={p.id} className='card card-side bg-base-100 shadow border'>
+          <div key={p.id} className='card card-side bg-base-100 shadow-2xl '>
             <figure>
               {/* <img
                 className='w-40 h-28 object-cover'
@@ -91,7 +91,7 @@ const WishList = () => {
               
               <button
                 onClick={() => handleRemove(p.id)}
-                className='btn btn-outline mt-5'
+                className='btn bg-green-600 text-white font-bold mt-5'
               >
                 Uninstall
               </button>

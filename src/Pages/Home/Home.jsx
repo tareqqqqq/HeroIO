@@ -32,16 +32,17 @@ if (loading) {
              <Banner></Banner>
             <BannerTwo></BannerTwo>
            </div>
-
-            <div className='text-center mt-5'>
+<div className='container m-auto'>
+            <div className='text-center mt-5 '>
                 <h1 className='text-[30px] font-bold'> Treanding App </h1>
                 <p className='text-gray-500'>Explore All Trending Apps on the Market developed by us</p>
             </div>
-        <div className='grid grid-cols-1 md:grid-cols-4 gap-5'>
+        <div className=' grid grid-cols-1 md:grid-cols-4 gap-5'>
             
             {
                 featuredProducts.map((product)=><ProductCard product={product} key={product.id}></ProductCard> )
             }
+        </div>
         </div>
 
         </div>

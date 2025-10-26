@@ -36,7 +36,7 @@ const Products = () => {
       )
     : products
     return (
-        <div>
+        <div className="container m-auto">
           <div className='text-center my-10'>
                 <h1 className='text-[30px] font-bold'> Treanding App </h1>
                 <p className='text-gray-500'>Explore All Trending Apps on the Market developed by us</p>

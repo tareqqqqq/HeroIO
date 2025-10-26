@@ -2,7 +2,7 @@ import React from 'react';
 import mobileImg from '../../assets/hero.png'
 const Banner = () => {
     return (
-        <div  className="text-center space-y-5">
+        <div  className="text-center space-y-5 container m-auto">
           <h1 className='font-bold text-[50px]  '>We Build <br /> <span className='text-blue-600'>Productive</span> Apps </h1> 
           <p className='text-gray-500'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact</p> 
           <div>

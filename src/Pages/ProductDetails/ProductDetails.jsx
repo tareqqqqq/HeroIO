@@ -68,7 +68,7 @@ if (!singleBook) {
         updateList(singleBook)
 }
     return (
-         <div>
+         <div className="container m-auto">
            
             
             
