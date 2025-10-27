@@ -99,7 +99,7 @@ const ProductDetails = () => {
               </div>
               <div>
                  <img src={ratingImg} alt="" />
-                {/* <h1> <Star />
+                {/* <h1> 
                 </h1> */}
                 <h1 className='font-bold text-3xl'>Rating</h1>
 

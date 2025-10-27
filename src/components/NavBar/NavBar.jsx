@@ -1,4 +1,6 @@
+import { House } from 'lucide-react';
 import React, { useState } from 'react';
+import { FaGithub } from 'react-icons/fa';
 import { Link, NavLink } from 'react-router';
 
 const NavBar = () => {
@@ -38,24 +40,24 @@ const NavBar = () => {
               <NavLink to='/products'> Apps </NavLink>
             </li>
             <li>
-              <NavLink to='/wishlist'>Installation</NavLink>
+              <NavLink to='/installation'>Installation</NavLink>
             </li>
           </ul>
         </div>
-        <Link to='/' className='text-2xl font-bold'>
+        <Link to='/' className='text-4xl font-bold'>
           HERO.IO
         </Link>
       </div>
       <div className='navbar-center '>
         <ul className='menu menu-horizontal px-1 hidden lg:flex'>
           <li>
-            <NavLink to='/' onClick={() => setActive('home')} className={`   cursor-pointer ${active==='home' ? 'text-blue-800' : ''}`}>Home</NavLink>
+            <NavLink  to='/' onClick={() => setActive('home')} className={`font-bold text-xl    ${active==='home' ? 'text-blue-800' : ''}`}>  Home</NavLink>
           </li>
           <li>
-            <NavLink to='/products' onClick={() => setActive('apps')} className={`   cursor-pointer ${active==='apps' ? 'text-blue-800' : ''}`}>Apps</NavLink>
+            <NavLink to='/products' onClick={() => setActive('apps')} className={`font-bold text-xl  ${active==='apps' ? 'text-blue-800' : ''}`}>Apps</NavLink>
           </li>
           <li>
-            <NavLink to='/wishlist'  onClick={() => setActive('installation')} className={`   cursor-pointer ${active==='installation' ? 'text-blue-800' : ''}`}>Installation</NavLink>
+            <NavLink to='/installation'  onClick={() => setActive('installation')} className={`font-bold text-xl  ${active==='installation' ? 'text-blue-800' : ''}`}>Installation</NavLink>
           </li>
         </ul>
       </div>
@@ -68,10 +70,11 @@ const NavBar = () => {
   href="https://github.com/tareqqqqq" 
   target="_blank" 
   rel="noopener noreferrer" 
-  className="btn"
+  className="btn text-sm font-bold text-white"
   
   style={{background:"linear-gradient(125.07deg, rgba(99, 46, 227, 1),rgba(159, 98, 242, 1) 100%)"}}
 >
+  <FaGithub />
   Contribute
 </a>
       </div>

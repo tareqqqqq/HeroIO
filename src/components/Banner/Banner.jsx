@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div  className="text-center space-y-5 container m-auto">
           <h1 className='font-bold text-[50px]  '>We Build <br /> <span className='text-blue-600'>Productive</span> Apps </h1> 
-          <p className='text-gray-500'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact</p> 
+          <p className='text-black'>At <strong>HERO.IO</strong> , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact</p> 
           <div>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-6">
@@ -13,10 +13,10 @@ const Banner = () => {
     href="https://play.google.com/store"
     target="_blank"
     rel="noopener noreferrer"
-    className="bg-[#34A853] text-white font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-[#2C8E45] transition-all duration-300 flex items-center gap-2"
+    className="bg-white text-black font-semibold px-6 py-3 rounded-lg shadow-md  transition-all duration-300 flex items-center gap-2"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6g33I-kP1ZveiVsCwlPhyupkrwqoSccrmw&s"
       alt="Google Play"
       className="w-6 h-6"
     />

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Link } from 'react-router';
 import downloadImg from '../../assets/icon-downloads.png'
 import ratingImg from '../../assets/icon-ratings.png'
@@ -14,7 +14,7 @@ const ProductCard = ({product}) => {
        <Link to={`/productDetails/${id}`}>
         <div>
             
-<div className="card bg-base-100  shadow-sm p-3 transform hover:scale-105">
+<div className="card bg-white mt-5 shadow-md p-3 transform hover:scale-105">
   <figure>
     <img className='pt-2'
       src={image}

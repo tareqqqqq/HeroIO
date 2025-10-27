@@ -10,7 +10,7 @@ const ProductCardAgain = ({product}) => {
           <Link to={`/productDetails/${id}`}>
                  <div>
                      
-         <div className="card bg-base-100  shadow-sm p-3 transform hover:scale-105">
+         <div className="card bg-gray-100  shadow-md p-3 transform hover:scale-105">
            <figure>
              <img className='pt-2'
                src={image}

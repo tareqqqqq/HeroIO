@@ -23,7 +23,7 @@ const router = createBrowserRouter([
         Component: Products
       },
       {
-        path:'/wishlist',
+        path:'/installation',
         Component: WishList
       },
       {

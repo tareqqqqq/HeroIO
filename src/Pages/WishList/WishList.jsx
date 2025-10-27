@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { loadWishlist, removeFromWishlist } from '../../utilities/localStorages';
 import { toast, ToastContainer } from 'react-toastify';
+import downloadImg from '../../assets/icon-downloads.png'
+import ratingImg from '../../assets/icon-ratings.png'
 
 
 const parseDownloads = (val) => {
@@ -83,8 +85,21 @@ const WishList = () => {
             </figure>
             <div className='card-body'>
               <h3 className='card-title'>{p.companyName}</h3>
-              <p className='text-base-content/70'>{p.downloads}</p>
-              <div className='font-semibold'>{p.ratingAvg}</div>
+              <div className='flex gap-5 items-center'>
+                <div className=' flex items-center p-2 gap-2 rounded-lg'>
+                  <img className='w-[20px] h-[20px]' src={downloadImg} alt="" />
+                          <h1 className='font-bold text-[20px]'>
+                            {p.downloads}
+                          </h1>
+                </div>
+              <div  className=' flex items-center p-2 gap-2 rounded-lg'>
+                      <img className='w-[20px] h-[20px]' src={ratingImg} alt="" />
+                      <h1 className='font-bold text-[20px]'>
+                        {p.ratingAvg}
+                      </h1>
+                    </div>
+              <div className='font-bold text-[15px]'>{p.size}</div>
+              </div>
 
             </div>
             <div className='pr-4 items-center text-center gap-3'>
